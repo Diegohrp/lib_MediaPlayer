@@ -7,10 +7,22 @@
     "build": "tsc -t es6 src/**/*.ts src/**/**/*.ts  src/*.ts -outDir lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["media player","TypeScript", "JavaScript"],
+  "keywords": [
+    "media player",
+    "TypeScript",
+    "JavaScript"
+  ],
   "author": "diegohp",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.3.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegohrp/lib_MediaPlayer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Diegohrp/lib_MediaPlayer/issues"
+  },
+  "homepage": "https://github.com/Diegohrp/lib_MediaPlayer#readme"
 }

@@ -1,10 +1,15 @@
 # lib_MediaPlayer
 Media player with some features like: Play-pause, mute-unmute, ads, auto-play, auto-pause
 
-# Usage
+# Install
 ```npm
 npm install @diegohp/mediaplayer 
 ```
+# Usage 
+```bash
+npm run build
+```
+Compile the typescript files to JavaScript
 
 # Contributing
 If someone wants to add or improve something, I invite you to collaborate di
